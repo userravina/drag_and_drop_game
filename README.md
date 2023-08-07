@@ -1,7 +1,4 @@
 
-
-https://github.com/userravina/drag_and_drop_game/assets/120082785/994c167f-adf6-4e6c-9b6a-3ca2be1d2c18
-
 # drag_and_drop_game
 
 A new Flutter project.
